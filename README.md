@@ -8,4 +8,5 @@ Linguagens que utilizei para o desenvolvimento:
 - CSS
 
 Copyright &copy; 2025 Pablo Henrique | Todos os Direitos Reservados.
-Desenvolvido com ❤ por Pablo Henrique.
+
+Desenvolvido com ❤ por **Pablo Henrique**.
