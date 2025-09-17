@@ -78,7 +78,11 @@ video {
     z-index: -1;
     border-radius: 100%;
 }
-
+.buttons {
+    display: block;
+    max-width: 1024px;
+    width: 100%;
+}
 .container > .buttons > a {
     display: block;
     text-align: center;
@@ -86,8 +90,9 @@ video {
     color: #fff;
     position: relative;
     background-color: rgba(0, 0, 0, 0.6);
-    padding: 15px 200px;
-    margin: 10px 0;
+    padding: 15px;
+    margin: 10px auto;
+    max-width: 600px;
     border-radius: 60px;
     width: 100%;
     font-size: 18px;
@@ -104,5 +109,4 @@ video {
     height: 25px;
     float: left;
     position: relative;
-    right: 170px;
 }
